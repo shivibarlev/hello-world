@@ -1,4 +1,3 @@
-[config]
 enable_custom_labels=true
 model="gpt-4o-mini"
 [custom_labels."SQL query"]
